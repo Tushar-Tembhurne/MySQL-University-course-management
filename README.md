@@ -45,3 +45,7 @@ The project features 10 advanced SQL queries targeting operational insights. Key
 
  **Subqueries (`NOT IN`):** Identifying database gaps, such as active courses that currently have zero student enrollments.
 
+   ER Diagram:
+   <img width="932" height="686" alt="image" src="https://github.com/user-attachments/assets/ae8e4afa-b19c-4276-8a20-e77632ba3274" />
+
+
